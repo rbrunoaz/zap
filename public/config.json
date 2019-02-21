@@ -21,7 +21,7 @@
                 }									
 			],
           "outArguments": [],
-          "url": "https://git.heroku.com/zapmania.git/journeybuilder/execute",
+          "url": "https://mc6zlld1hw6z2wwh1b1b7bhln8h4/journeybuilder/execute",
            "verb": "POST",
             "body": "",
             "header": "",
@@ -33,22 +33,22 @@
     "configurationArguments": {
       "applicationExtensionKey": "3890c9c2-584d-4316-95cb-798cd82655a2",
       "save": {
-        "url": "https://git.heroku.com/zapmania.git/journeybuilder/save",
+        "url": "https://mc6zlld1hw6z2wwh1b1b7bhln8h4/journeybuilder/save",
           "verb": "POST",
         "useJwt": true
        },
        "publish": {
-        "url": "https://git.heroku.com/zapmania.git/journeybuilder/publish",
+        "url": "https://mc6zlld1hw6z2wwh1b1b7bhln8h4/journeybuilder/publish",
            "verb": "POST",
         "useJwt": true
        },
       "stop": {
-        "url": "https://git.heroku.com/zapmania.git/journeybuilder/stop",
+        "url": "https://mc6zlld1hw6z2wwh1b1b7bhln8h4/journeybuilder/stop",
            "verb": "POST",
         "useJwt": true
       },
       "validate": {
-        "url": "https://git.heroku.com/zapmania.git/journeybuilder/validate",
+        "url": "https://mc6zlld1hw6z2wwh1b1b7bhln8h4/journeybuilder/validate",
         "verb": "POST",
         "useJwt": true
       }
